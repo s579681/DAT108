@@ -1,6 +1,7 @@
 package inkrement;
 
 public class Inkrementer implements Runnable {
+	//s
 	private Tall teller;
 	
 	public Inkrementer(Tall teller) {

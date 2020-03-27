@@ -6,7 +6,7 @@ public class Lagtråder {
 
 		NamePool navn = new NamePool();
 		Person p = new Person();
-		
+		//S
 		Skriver S1 = new Skriver(p, navn);
 		Skriver S2 = new Skriver(p, navn);
 		Skriver S3 = new Skriver(p, navn);
